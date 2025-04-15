@@ -768,3 +768,48 @@
     height: 250px !important;
 }
 
+
+
+
+.flow-box {
+    background-color: #f8f9fa;
+    border: 2px solid #0d6efd;
+    border-radius: 0.5rem;
+    padding: 1rem 1.5rem;
+    min-width: 120px;
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .arrow {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 30px;
+  }
+
+  .flow-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+
+  .arrow-down {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    .flow-row {
+      flex-direction: column;
+    }
+    .arrow {
+      transform: rotate(90deg);
+    }
+  }
+
