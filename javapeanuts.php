@@ -19,35 +19,108 @@ include 'header.php';
 <!-- Page Header End -->
 
 
-<div class="row w-100 g-5">
-    <div class="col-md-10 mx-auto text-center">
+<div class="row w-100 g-0">
+    <div class="col-md-6 mx-auto text-center">
         <img src="img/products/JavaPeanuts.png" alt="" class="img-fluid" width="">
     </div>
-</div>
-
-<div class="row w-100 g-5 mt-1">
-    <div class="col-md-8 mx-auto text-center">
+    <div class="col-md-6 mx-auto text-center text-white fs-5 bg-primary my-auto p-5 mviewp">
         <p><strong>Dweep India Trading</strong> proudly offers Java Peanuts, known for their superior taste, uniform size, and high oil content. Cultivated in the fertile regions of India, our Java Peanuts are carefully sourced, sorted, and processed to meet international quality standards. Each batch undergoes rigorous cleaning using advanced equipment such as de-stoners, graders, and gravity separators to ensure a 100% impurity-free product. We export Java Peanuts in raw, blanched, and split forms, customized to suit the specific needs of our global clients. With consistent quality, competitive pricing, and reliable packaging, Dweep India Trading has become a trusted partner in the international peanut trade. We also offer private labeling and custom packaging solutions for bulk and retail requirements.</p>
     </div>
 </div>
 
-<div class="container py-5">
+
+<div class="container py-3 mt-5">
     <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <p class="fs-5 fw-medium fst-italic text-primary p-0 m-0">Our Process</p>
-        <h1 class="display-6">Java Peanuts</h1>
+        <p class="fs-5 fw-medium fst-italic text-primary p-0 m-0">Java Peanuts</p>
+        <h1 class="display-6">Our Process</h1>
     </div>
 </div>
-<div class="row w-100 g-0 bg-primary mt-5">
-    <div class="col-md-10">
-        <div class="row w-100 g-0">
-            <div class="col-md-3">
-
+<div class="row w-100 g-0">
+    <div class="col-md-10 mx-auto py-2">
+        <div class="row w-100 g-3">
+            <div class="col-md-3 text-center">
+            <p class="text-white bg-primary py-3">Raw Material procurement</p>
+            </div>
+            <div class="col-md-3 text-center">
+                <p class="text-white bg-primary py-3">Cleaning</p>
+            </div>
+            <div class="col-md-3 text-center">
+                <p class="text-white bg-primary py-3">Drying (if needed)</p>
+            </div>
+            <div class="col-md-3 text-center">
+                <p class="text-white bg-primary py-3">Grading/Shorting</p>
+            </div>
+        </div>
+        <div class="row w-100 g-3">
+            <div class="col-md-3 text-center">
+            <p class="text-white bg-primary py-3">Quality Check</p>
+            </div>
+            <div class="col-md-3 text-center">
+                <p class="text-white bg-primary py-3">Packaging</p>
+            </div>
+            <div class="col-md-3 text-center">
+                <p class="text-white bg-primary py-3">Storage & Dispatch</p>
             </div>
         </div>
     </div>
 </div>
 
+<div class="container py-3 mt-3">
+    <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+        <p class="fs-5 fw-medium fst-italic text-primary p-0 m-0">Java Peanuts</p>
+        <h1 class="display-6">Specification</h1>
+    </div>
+</div>
 
+<section class="container py-3">
+  <div class="table-responsive">
+    <table class="table table-bordered table-striped align-middle" data-wow-delay="0.1s">
+      <tbody>
+        <tr>
+          <th scope="row">Product Name</th>
+          <td>Java Peanuts</td>
+        </tr>
+        <tr>
+          <th scope="row">Size</th>
+          <td>38/42, 40/50, 50/60 counts per ounce</td>
+        </tr>
+        <tr>
+          <th scope="row">Moisture</th>
+          <td>Maximum 7%</td>
+        </tr>
+        <tr>
+          <th scope="row">Admixture</th>
+          <td>Maximum 1%</td>
+        </tr>
+        <tr>
+          <th scope="row">Oil Content</th>
+          <td>Minimum 44-50%</td>
+        </tr>
+        <tr>
+          <th scope="row">Color</th>
+          <td>Pinkish Red</td>
+        </tr>
+        <tr>
+          <th scope="row">Aflatoxin</th>
+          <td>Below 20 ppb (as per EU/US norms)</td>
+        </tr>
+        <tr>
+          <th scope="row">Packing</th>
+          <td>25/50 kg PP/Jute Bags or as per buyer's requirement</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+
+<style>
+    @media(min-width:300px) and (max-width:767px){
+        .mviewp{
+            padding: 10px !important;
+        }
+    }
+</style>
 
 <?php
 include 'footer.php';

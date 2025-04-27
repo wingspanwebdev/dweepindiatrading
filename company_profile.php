@@ -86,7 +86,7 @@ include 'header.php';
             <div class="col-md-8 order-md-first mview my-auto">
                 <p class="fs-5 m-0 p-0">Explore wide range of products</p>
                 <h1>Download Catalogue</h1>
-                <button class="btn btn-light mt-2 ">Download Brochure</button>
+                <a href="dweepindiatradingbroucher.pdf" target="_blank"><button class="btn btn-light mt-2 ">Download Brochure</button></a>
             </div>
             <div class="col-md-4 order-first mx-auto text-center py-3">
                 <img src="img/broucher.png" alt="" class="img-fluid shadow-sm" width="250px" >

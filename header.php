@@ -33,9 +33,9 @@
 
 <body>
     <!-- Spinner Start -->
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <!-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
-    </div>
+    </div> -->
     <!-- Spinner End -->
 
 
@@ -74,92 +74,92 @@
                                             <a href="javapeanuts.php" class="dropdown-item">Java peanuts</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">TJ peanuts</a>
+                                            <a href="tjpeanuts.php" class="dropdown-item">TJ peanuts</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Bold peanuts</a>
+                                            <a href="boldpeanuts.php" class="dropdown-item">Bold peanuts</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Blanched peanuts</a>
+                                            <a href="blanchedpeanuts.php" class="dropdown-item">Blanched peanuts</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Hulled sesame seeds</a>
+                                            <a href="hulledsesameseeds.php" class="dropdown-item">Hulled sesame seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Natural sesame seeds</a>
+                                            <a href="nuturalsesameseeds.php" class="dropdown-item">Natural sesame seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Mustard seeds</a>
+                                            <a href="mustardseeds.php" class="dropdown-item">Mustard seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Watermelon seeds</a>
+                                            <a href="watermelonseeds.php" class="dropdown-item">Watermelon seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Flax seeds</a>
+                                            <a href="flaxseeds.php" class="dropdown-item">Flax seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Chia seeds</a>
+                                            <a href="chiaseeds.php" class="dropdown-item">Chia seeds</a>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown-item">Sabja seeds</a>
+                                            <a href="sabjaseeds.php" class="dropdown-item">Sabja seeds</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Spices</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#" class="dropdown-item">Cumin seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Fenugreek seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Fennel seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Coriander seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Turmeric whole</a></li>
-                                        <li><a href="#" class="dropdown-item">Red chillies</a></li>
-                                        <li><a href="#" class="dropdown-item">Dry ginger</a></li>
-                                        <li><a href="#" class="dropdown-item">Black pepper</a></li>
-                                        <li><a href="#" class="dropdown-item">Cardamom</a></li>
-                                        <li><a href="#" class="dropdown-item">Carom seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Nutmeg</a></li>
-                                        <li><a href="#" class="dropdown-item">Mace</a></li>
-                                        <li><a href="#" class="dropdown-item">Bay leaf</a></li>
-                                        <li><a href="#" class="dropdown-item">Caraway seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Black cumin</a></li>
-                                        <li><a href="#" class="dropdown-item">Cinnamon</a></li>
-                                        <li><a href="#" class="dropdown-item">Black cardamom</a></li>
-                                        <li><a href="#" class="dropdown-item">Cloves</a></li>
+                                        <li><a href="cuminseeds.php" class="dropdown-item">Cumin seeds</a></li>
+                                        <li><a href="fenugreekseeds.php" class="dropdown-item">Fenugreek seeds</a></li>
+                                        <li><a href="fennelseeds.php" class="dropdown-item">Fennel seeds</a></li>
+                                        <li><a href="corianderseeds.php" class="dropdown-item">Coriander seeds</a></li>
+                                        <li><a href="turmericwhole.php" class="dropdown-item">Turmeric whole</a></li>
+                                        <li><a href="redchillies.php" class="dropdown-item">Red chillies</a></li>
+                                        <li><a href="dryginger.php" class="dropdown-item">Dry ginger</a></li>
+                                        <li><a href="blackpepper.php" class="dropdown-item">Black pepper</a></li>
+                                        <li><a href="cardamom.php" class="dropdown-item">Cardamom</a></li>
+                                        <li><a href="caromseeds.php" class="dropdown-item">Carom seeds</a></li>
+                                        <li><a href="nutmeg.php" class="dropdown-item">Nutmeg</a></li>
+                                        <li><a href="mace.php" class="dropdown-item">Mace</a></li>
+                                        <li><a href="bayleaf.php" class="dropdown-item">Bay leaf</a></li>
+                                        <li><a href="carawayseeds.php" class="dropdown-item">Caraway seeds</a></li>
+                                        <li><a href="blackcumin.php" class="dropdown-item">Black cumin</a></li>
+                                        <li><a href="cinnamon.php" class="dropdown-item">Cinnamon</a></li>
+                                        <li><a href="blackcardamom.php" class="dropdown-item">Black cardamom</a></li>
+                                        <li><a href="cloves.php" class="dropdown-item">Cloves</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Powders</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#" class="dropdown-item">Red chillies</a></li>
-                                        <li><a href="#" class="dropdown-item">Turmeric</a></li>
-                                        <li><a href="#" class="dropdown-item">Coriander seeds</a></li>
-                                        <li><a href="#" class="dropdown-item">Dry ginger</a></li>
-                                        <li><a href="#" class="dropdown-item">Amchur</a></li>
-                                        <li><a href="#" class="dropdown-item">Garam masala</a></li>
-                                        <li><a href="#" class="dropdown-item">Pav bhaji masasla</a></li>
-                                        <li><a href="#" class="dropdown-item">Sambhar masala</a></li>
-                                        <li><a href="#" class="dropdown-item">White pepper</a></li>
+                                        <li><a href="redchillies.php" class="dropdown-item">Red chillies</a></li>
+                                        <li><a href="turmericwhole.php" class="dropdown-item">Turmeric</a></li>
+                                        <li><a href="corianderseeds.php" class="dropdown-item">Coriander seeds</a></li>
+                                        <li><a href="dryginger.php" class="dropdown-item">Dry ginger</a></li>
+                                        <li><a href="amchur.php" class="dropdown-item">Amchur</a></li>
+                                        <li><a href="garammasala.php" class="dropdown-item">Garam masala</a></li>
+                                        <li><a href="pavbhajimasala.php" class="dropdown-item">Pav bhaji masala</a></li>
+                                        <li><a href="sambharmasala.php" class="dropdown-item">Sambhar masala</a></li>
+                                        <li><a href="whitepepper.php" class="dropdown-item">White pepper</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Dehydrated Items</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#" class="dropdown-item">Dehydrated onions chopped, minced and powder</a></li>
-                                        <li><a href="#" class="dropdown-item">Dehydrated garlic chopped, minced and powder</a></li>
-                                        <li><a href="#" class="dropdown-item">Banana powder</a></li>
-                                        <li><a href="#" class="dropdown-item">Cucumber powder</a></li>
-                                        <li><a href="#" class="dropdown-item">Kiwi mango black current <br>strawberry amla cranberry pineapples <br> ginger cherry blueberry <br> apricots blackcurrant</a></li>
+                                        <li><a href="onionspowder.php" class="dropdown-item">Dehydrated onions chopped, minced and powder</a></li>
+                                        <li><a href="garlicpowder.php" class="dropdown-item">Dehydrated garlic chopped, minced and powder</a></li>
+                                        <li><a href="bananapowder.php" class="dropdown-item">Banana powder</a></li>
+                                        <li><a href="cucumberpowder.php" class="dropdown-item">Cucumber powder</a></li>
+                                        <li><a href="kiwimango.php" class="dropdown-item">Kiwi mango black current <br>strawberry amla cranberry pineapples <br> ginger cherry blueberry <br> apricots blackcurrant</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu">
                                     <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Pulses and Grain</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#" class="dropdown-item">Green milleta</a></li>
-                                        <li><a href="#" class="dropdown-item">Channa dal</a></li>
-                                        <li><a href="#" class="dropdown-item">Checkpeas</a></li>
-                                        <li><a href="#" class="dropdown-item">Desi chana</a></li>
-                                        <li><a href="#" class="dropdown-item">Guar gam powder</a></li>
+                                        <li><a href="greenmilleta.php" class="dropdown-item">Green milleta</a></li>
+                                        <li><a href="channadal.php" class="dropdown-item">Channa dal</a></li>
+                                        <li><a href="checkpeas.php" class="dropdown-item">Checkpeas</a></li>
+                                        <li><a href="desichana.php" class="dropdown-item">Desi chana</a></li>
+                                        <li><a href="guargampowder.php" class="dropdown-item">Guar gam powder</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -270,7 +270,7 @@
                         <a href="contact.php" class="nav-item nav-link">Contact Us</a>
                     </div>
                     <div class="border-start ps-4 d-none d-lg-block">
-                        <button class="btn btn-primary"><i class="fa fa-download"></i> Download Brochure</button>
+                        <a href="dweepindiatradingbroucher.pdf" target="_blank"><button class="btn btn-primary"><i class="fa fa-download"></i> Download Brochure</button></a>
                     </div>
                 </div>
             </nav>

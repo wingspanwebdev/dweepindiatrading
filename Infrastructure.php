@@ -24,7 +24,7 @@ include 'header.php';
         <div class="container">
             <h2 class="mb-4">Manufacturing Facilities</h2>
             <p>Equipped with advanced machinery and hygienic processing units.</p>
-            <img src="img/about-1.jpg" class="img-fluid rounded shadow" alt="Manufacturing Facility">
+            <img src="img/dweepindiatrading.jpg" class="img-fluid rounded shadow" alt="Manufacturing Facility" width="750px">
         </div>
     </section>
 
@@ -33,7 +33,7 @@ include 'header.php';
         <div class="container">
             <h2 class="mb-4">Quality Control</h2>
             <p>Strict adherence to international quality standards with regular testing.</p>
-            <img src="img/quality.jpg" class="img-fluid rounded shadow" alt="Quality Control">
+            <img src="img/quality.jpg" class="img-fluid rounded shadow" alt="Quality Control" width="750px">
         </div>
     </section>
 
@@ -42,7 +42,7 @@ include 'header.php';
         <div class="container">
             <h2 class="mb-4">Warehousing & Storage</h2>
             <p>Temperature-controlled storage to maintain freshness and aroma.</p>
-            <img src="img/warehouse.jpg" class="img-fluid rounded shadow" alt="Warehouse">
+            <img src="img/Warehousing.jpg" class="img-fluid rounded shadow" alt="Warehouse" width="750px">
         </div>
     </section>
 
@@ -51,7 +51,7 @@ include 'header.php';
         <div class="container">
             <h2 class="mb-4">Logistics & Distribution</h2>
             <p>Efficient supply chain ensuring timely global deliveries.</p>
-            <img src="img/logistics.jpg" class="img-fluid rounded shadow" alt="Logistics">
+            <img src="img/Logistics.jpg" class="img-fluid rounded shadow" alt="Logistics" width="750px">
         </div>
     </section>
 
