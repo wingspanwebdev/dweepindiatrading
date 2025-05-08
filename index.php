@@ -3,7 +3,7 @@ include 'header.php';
 ?>
 
 <div id="social-container">
-    <button id="toggle-btn"><i class="fas fa-share-alt"></i></button>
+    <button id="toggle-btn"><i class="fas fa-comments"></i></button>
     <div id="social-icons">
         <a href="https://wa.me/+916367851403" target="_blank" class="icon whatsapp"><i class="fab fa-whatsapp"></i></a>
         <a href="mailto:example@example.com" class="icon email"><i class="fas fa-envelope"></i></a>
@@ -80,17 +80,10 @@ include 'header.php';
         <div class="row g-5">
             <div class="col-lg-6">
                 <div class="row g-3">
-                    <div class="col-6 text-end">
-                        <img class="img-fluid bg-white w-100 mb-3 wow fadeIn" data-wow-delay="0.1s" src="img/aboutus.jpg" alt="">
-                        <img class="img-fluid bg-white w-50 wow fadeIn" data-wow-delay="0.2s" src="img/aboutus2.jpg" alt="">
-                    </div>
-                    <div class="col-6">
-                        <img class="img-fluid bg-white w-50 mb-3 wow fadeIn" data-wow-delay="0.3s" src="img/aboutus1.jpg" alt="">
-                        <img class="img-fluid bg-white w-100 wow fadeIn" data-wow-delay="0.4s" src="img/aboutus3.jpg" alt="">
-                    </div>
+                <img class="img-fluid bg-white w-100 mb-3 wow fadeIn p-5 aboutmview" data-wow-delay="0.1s" src="img/about.jpg" alt="">
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+            <div class="col-lg-6 wow fadeIn my-auto" data-wow-delay="0.5s">
                 <div class="section-title">
                     <p class="fs-5 fw-medium fst-italic text-primary">About Us</p>
                     <h2 class="">Dweep India Trading is a prominent export company, founded in 2014. The organization has been engaged in the field of exports since its establishment.</h2>
@@ -300,10 +293,10 @@ include 'header.php';
                             <small class="fa fa-star text-primary"></small>
                         </div>
                         <h4 class="mb-3">Turmeric</h4>
-                        <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
+                        <p>Whole turmeric is the root of the Curcuma longa plant, typically orange to yellow in color, with a rough, knobby appearance similar to ginger.</p>
                     </div>
                     <div class="store-overlay">
-                        <a href="" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="turmericwhole.php" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -319,10 +312,10 @@ include 'header.php';
                             <small class="fa fa-star text-primary"></small>
                         </div>
                         <h4 class="mb-3">Red Chilli</h4>
-                        <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
+                        <p>Red chillies are the dried, ripened fruits of various chili pepper plants, most commonly of the Capsicum species.</p>
                     </div>
                     <div class="store-overlay">
-                        <a href="" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="redchillies.php" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -338,10 +331,10 @@ include 'header.php';
                             <small class="fa fa-star text-primary"></small>
                         </div>
                         <h4 class="mb-3">Amchur</h4>
-                        <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
+                        <p>Amchur also known as dry mango powder, is a tangy, pale brown spice made from dried unripe green mangoes.</p>
                     </div>
                     <div class="store-overlay">
-                        <a href="" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="amchur.php" class="btn btn-primary rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -354,40 +347,27 @@ include 'header.php';
 <!-- Testimonial Start -->
 <div class="container-fluid testimonial py-5 my-5">
     <div class="container py-5">
-        <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-            <p class="fs-5 fw-medium fst-italic text-white">Testimonial</p>
-            <h1 class="display-6">What our clients say about our tea</h1>
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <h1 class="display-6 text-white">Our Certificate</h1>
         </div>
-        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.5s">
-            <div class="testimonial-item p-4 p-lg-5">
-                <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-                <div class="d-flex align-items-center justify-content-center">
-                    <img class="img-fluid flex-shrink-0" src="img/testimonial-1.jpg" alt="">
-                    <div class="text-start ms-3">
-                        <h5>Client Name</h5>
-                        <span class="text-primary">Profession</span>
-                    </div>
-                </div>
+        <div class="row w-100 g-3 mt-5">
+            <div class="col-md-2">
+                <img src="img/cl1.png" alt="certificate icon" class="img-fluid " >
             </div>
-            <div class="testimonial-item p-4 p-lg-5">
-                <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-                <div class="d-flex align-items-center justify-content-center">
-                    <img class="img-fluid flex-shrink-0" src="img/testimonial-2.jpg" alt="">
-                    <div class="text-start ms-3">
-                        <h5>Client Name</h5>
-                        <span class="text-primary">Profession</span>
-                    </div>
-                </div>
+            <div class="col-md-2">
+                <img src="img/cl2.png" alt="certificate icon" class="img-fluid" >
             </div>
-            <div class="testimonial-item p-4 p-lg-5">
-                <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-                <div class="d-flex align-items-center justify-content-center">
-                    <img class="img-fluid flex-shrink-0" src="img/testimonial-3.jpg" alt="">
-                    <div class="text-start ms-3">
-                        <h5>Client Name</h5>
-                        <span class="text-primary">Profession</span>
-                    </div>
-                </div>
+            <div class="col-md-2">
+                <img src="img/cl3.png" alt="certificate icon" class="img-fluid" >
+            </div>
+            <div class="col-md-2">
+                <img src="img/cl4.png" alt="certificate icon" class="img-fluid" >
+            </div>
+            <div class="col-md-2">
+                <img src="img/cl5.png" alt="certificate icon" class="img-fluid" >
+            </div>
+            <div class="col-md-2">
+                <img src="img/cl6.png" alt="certificate icon" class="img-fluid" >
             </div>
         </div>
     </div>
@@ -433,6 +413,7 @@ include 'header.php';
     </div>
 </div> -->
 <!-- Contact Start -->
+
 
 
 <?php
