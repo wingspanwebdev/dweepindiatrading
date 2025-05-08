@@ -19,6 +19,7 @@
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
     <!-- Libraries Stylesheet -->
     <link href="lib/animate/animate.min.css" rel="stylesheet">
@@ -266,7 +267,7 @@
                             </div>
                         </div> -->
                         <a href="faq.php" class="nav-item nav-link">FAQ</a>
-                        <a href="gallery.php" class="nav-item nav-link">Gallery</a>
+                        <a href="harvestCalendar.php" class="nav-item nav-link">Harvest Calendar</a>
                         <a href="contact.php" class="nav-item nav-link">Contact Us</a>
                     </div>
                     <div class="border-start ps-4 d-none d-lg-block">
